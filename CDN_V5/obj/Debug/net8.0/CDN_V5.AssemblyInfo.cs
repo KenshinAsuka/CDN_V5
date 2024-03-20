@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CDN_V5")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2eb16abd9caa7b1e15866253fe9a14bacb5b2a92")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af7cb5b5f65f8fc48e4a3dfe8ba53e4c1c023f8a")]
 [assembly: System.Reflection.AssemblyProductAttribute("CDN_V5")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CDN_V5")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
